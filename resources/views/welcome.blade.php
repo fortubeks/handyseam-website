@@ -121,8 +121,7 @@
                 <div class="section-title">
                     <h3 class="wow zoomIn" data-wow-delay=".2s">What we offer</h3>
                     <h2 class="wow fadeInUp" data-wow-delay=".4s">Our Features</h2>
-                    <p class="wow fadeInUp" data-wow-delay=".6s">There are many variations of passages of Lorem
-                        Ipsum available, but the majority have suffered alteration in some form.</p>
+                    <p class="wow fadeInUp" data-wow-delay=".6s"></p>
                 </div>
             </div>
         </div>
