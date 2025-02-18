@@ -56,7 +56,7 @@
 <!-- End Clients Area -->
 
 <!-- Start Features Area -->
-<section class="freatures section">
+<section class="features section">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6 col-12">
@@ -111,7 +111,7 @@
 <!-- End Features Area -->
 
 <!-- Start Services Area -->
-<div class="services section">
+<div id="features" class="services section">
     <div class="container">
         <div class="row">
             <div class="col-12">
@@ -478,7 +478,7 @@
 / End Faq Area -->
 
 <!-- Start Call Action Area -->
-<section class="call-action">
+<section id="call-action" class="call-action">
     <div class="container">
         <div class="inner-content">
             <div class="row align-items-center">

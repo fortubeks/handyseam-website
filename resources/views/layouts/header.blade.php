@@ -21,14 +21,14 @@
                                     <a href="{{route('home')}}" class="active" aria-label="Toggle navigation">Home</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" aria-label="Toggle navigation">About</a>
+                                    <a href="#features" aria-label="Toggle navigation">About</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a href="#" aria-label="Toggle navigation">Pricing</a>
+                                    <a href="#pricing" aria-label="Toggle navigation">Pricing</a>
                                 </li>
 
                                 <li class="nav-item">
-                                    <a href="#" aria-label="Toggle navigation">Contact</a>
+                                    <a href="#call-action" aria-label="Toggle navigation">Contact</a>
                                 </li>
                             </ul>
                         </div> <!-- navbar collapse -->
