@@ -33,7 +33,7 @@
                                 <li><a href="javascript:void(0)">Blog</a></li>
                                 <li><a href="javascript:void(0)">FAQs</a></li>
                                 <li><a href="javascript:void(0)">Support</a></li>
-                                <li><a href="javascript:void(0)">Privacy Policy</a></li>
+                                <li><a href="{{route('privacy-policy')}}">Privacy Policy</a></li>
                             </ul>
                         </div>
                         <!-- End Single Widget -->
