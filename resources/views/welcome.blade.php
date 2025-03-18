@@ -1,5 +1,18 @@
 @extends('layouts.master')
 <link rel="stylesheet" href="assets/css/slider.css" />
+<style>
+    .button-container {
+        display: flex;
+        gap: 10px;
+        /* Adjust spacing between buttons */
+        flex-wrap: wrap;
+    }
+
+    .btn {
+        display: inline-block;
+        padding: 10px 20px;
+    }
+</style>
 @section('content')
 <!-- Start Hero Area -->
 <section class="hero-area">
@@ -12,9 +25,18 @@
                         fashion business</h1>
                     <p>HandySeam is the ultimate app for fashion designers <br>and tailors to simplify and supercharge their business operations.
                     </p>
-                    <div class="button">
-                        <a href="https://app.handyseam.com/register" class="btn ">Try for free</a>
+                    <div class="button-container">
+                        <div class="button">
+                            <a href="https://app.handyseam.com/register" class="btn "><i class="lni lni-laptop"></i>Web</a>
+                        </div>
+                        <div class="button">
+                            <a href="https://play.google.com/store/apps/details?id=ng.com.handyseam&hl=en" class="btn "><i class="lni lni-android"></i>Android</a>
+                        </div>
+                        <div class="button">
+                            <a href="https://app.handyseam.com/register" class="btn "><i class="lni lni-apple"></i>Apple</a>
+                        </div>
                     </div>
+
                 </div>
             </div>
             <div class="col-lg-7 col-12">
